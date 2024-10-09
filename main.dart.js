@@ -106677,7 +106677,7 @@ return A.F($async$n0,r)}}
 A.H4.prototype={
 a29(){var s,r
 try{s=A.nC(J.ba(this.a.a,"isDarkMode"))
-return s===!0}catch(r){throw r}},
+return s!==!1}catch(r){throw r}},
 FL(){var s=0,r=A.G(t.H),q=1,p,o=this,n,m,l,k,j,i
 var $async$FL=A.H(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
